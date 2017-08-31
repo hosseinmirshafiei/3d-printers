@@ -1,9 +1,13 @@
+# 3D Printers of the Binary Kitchen
+This repository holds different settings, files and documentation for the 3D-Printers of the [Binary Kitchen](https://www.binary-kitchen.de). For more information see the [Dokumentation](https://github.com/Binary-Kitchen/3d-printers/wiki).
 
-## Calibrating
-We are using [Triffid Hunter's Calibration Guide](http://reprap.org/wiki/Triffid_Hunter%27s_Calibration_Guide/de) with the following parameters:
+We are using a **mendel90** Dibond with an E3D v6 extruder with [ColorFabb NGEN](http://colorfabb.com/co-polyesters/ngen) 1,75mm filament and a **Fabster** modded for conventional filament (out of order right now).
 
-- Full steps per revolution: **200 Steps** (1,8° per step)
-- Stepper driver: **16 Microsteps** (A4988 Driver)
-- Pulleys: **16 Teeth**
-- Belt Pitch: **T2,5** (2,5 mm)
-- Teeth on the extruder gear: TBC
+## Usage
+Only for members of the [Binary Kitchen](https://www.binary-ktichen.de): Please ask Timo for instructions. Do not print by your own!
+
+## Documentation
+For documentation please see the [Wiki](https://github.com/Binary-Kitchen/3d-printers/wiki) Wiki of this repository.
+
+## Links
+- Original Repo for Mendel90: https://github.com/nophead/Mendel90
