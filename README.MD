@@ -1,5 +1,5 @@
 # 3D Printers of the Binary Kitchen
-This repository holds different settings, files and documentation for the 3D-Printers of the [Binary Kitchen](https://www.binary-kitchen.de). For more information see the [Dokumentation](https://github.com/Binary-Kitchen/3d-printers/wiki).
+This repository holds different settings, files and documentation for the 3D-Printers of the [Binary Kitchen](https://www.binary-kitchen.de). For more information see the [Documentation](https://github.com/Binary-Kitchen/3d-printers/wiki).
 
 We are using a **mendel90** Dibond with an E3D v6 extruder with [ColorFabb NGEN](http://colorfabb.com/co-polyesters/ngen) 1,75mm filament and a **Fabster** modded for conventional filament (out of order right now).
 
