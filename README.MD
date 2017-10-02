@@ -7,7 +7,7 @@ We are using a **mendel90** Dibond with an E3D v6 extruder with [ColorFabb NGEN]
 Only for members of the [Binary Kitchen](https://www.binary-ktichen.de): Please ask Timo for instructions. Do not print by your own!
 
 ## Documentation
-For documentation please see the [Wiki](https://github.com/Binary-Kitchen/3d-printers/wiki) Wiki of this repository.
+For documentation please see the [Wiki](https://github.com/Binary-Kitchen/3d-printers/wiki) of this repository.
 
 ## Links
 - Original Repo for Mendel90: https://github.com/nophead/Mendel90
